@@ -67,6 +67,7 @@ function detenerEnSeis() {
             break
         }
 }
+}
 
 // Ejercicio 7: Uso de continue
 // Instrucción: Crea una función que recorra los números del 1 al 10, pero que se salte el número 5 usando `continue`.
